@@ -3,10 +3,14 @@
 
 
 Rock paper scissors game is a simple  c++ game where user give a input  and computer give a input .input type --rock/paper /scissors 
+
 user type any input. if user give invelid input , code will ask each time to give valid input
+
 then computer will give a valid input. For this srand(time(0)) and rand() is used. 
+
 it is a 3 round based game. after combining each round result, program will give the final result who won computer or user . for example, user won= 2 times, computer won=1 time. 
                              so final result= user won
+                             
 if user and computer give same input , round result=tie
 
 
